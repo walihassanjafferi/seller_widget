@@ -1,0 +1,17 @@
+/*
+*
+* Seller Widgets Admin Dashboard CSS
+* @jQuery datatables
+* @Admin Wrap
+*
+*/
+.swotcm_wrap {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #000;
+    margin-top: 2%;
+}
+#campaigns {
+	text-align:center;
+}
